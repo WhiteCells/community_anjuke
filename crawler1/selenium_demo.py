@@ -33,6 +33,7 @@ chrome_options.enable_downloads = True
 
 # chrome_options.set_window_rect = False
 
+
 service = webdriver.ChromeService(executable_path='C:\Program Files\Google\Chrome\Application\chrome.exe', port=10101)
 
 # driver = webdriver.Chrome(service=service, options=chrome_options) # ?
