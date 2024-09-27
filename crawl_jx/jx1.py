@@ -9,7 +9,7 @@ from selenium.webdriver.chrome.options import Options
 url = 'http://spfxm.whfgxx.org.cn:8083/spfxmcx/spfcx_index.aspx'
 
 chrome_options = Options()
-chrome_options.add_argument('--headless')
+# chrome_options.add_argument('--headless')
 
 driver = webdriver.Chrome(options=chrome_options)
 
@@ -33,6 +33,14 @@ try:
         # 查找一个页面下的江夏地区小区名
         communities_name_ele = driver.find_elements(By.XPATH, value='//table[@id="tables"]//td/a[@target="_blank"]')
         for community_name in communities_name_ele:
+            community_name.click()
+            property_table = driver.find_element(By.XPATH, '//a[@onclick="getDengjh()"]')
+            property_table.click()
+            tables_link = driver.find_elements(By.XPATH, '//tbody[@style="text-align:center;"]//a[@target="_blank"]')
+            for tl in tables_link:
+                tl.click()
+                
+                pass
             with open('jx.txt', 'a', encoding='utf8') as f:
                 f.write(community_name.text + '\n')
 
