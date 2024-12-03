@@ -1,0 +1,2 @@
+[tool.ruff]
+line-length = 888  # 最大行长度

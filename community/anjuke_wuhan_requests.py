@@ -20,7 +20,7 @@ prices_list = [
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-    "Cookie": "aQQ_ajkguid=C1804C4D-C339-DBB5-65D3-0A0D83425D92; ajk-appVersion=; id58=CkwARGcW/Mg62h7ND4F3Ag==; xxzlclientid=88c7292a-56f3-4b49-86a7-1729559751151; xxzlxxid=pfmxbU0YdPJbDTr0IFDR4ht2MqwLk3SDBw51L1XYH3F0wOyjT6Gw0YI6utmR2kydsIuN; isp=true; 58tj_uuid=dc36640e-4dc9-4cd2-99fe-8dc3e5f1293d; als=0; ctid=22; sessid=B2A13EF4-E196-4F8D-BCFB-236830FE6830; _ga=GA1.2.1555425064.1729838090; ajk_member_verify=Y%2BAzCx%2BeCb%2BI%2BgWH3Yvu7XydTGljnIj%2BKU9uBVdABDQ%3D; ajk_member_verify2=Mjk4MDc5Mjg1fExoaVQzclh8MQ%3D%3D; obtain_by=2; twe=2; fzq_h=75e0eb5fbd0c39742dcdfdb0e0d39a51_1730077522608_de39cce412a345c6a86a6153898fe198_1899585074; _gid=GA1.2.1342960644.1730077523; ajk_member_id=298079285; os=other; f_user_ticket=JwUCDQRCI0dARlQhRlFRAA8MFgc2CgdGUVFGUCJGUVFQWlBSV1RUVFNaUVJTUlZTV0ZRUUZRIEZRURYQBhEqB0ZRUUZQIkZRUVFaW1NUWlFbVkZRUUZUJ0BSVFBTU1RbVlJW; wmda_uuid=b2c70a4996e89aa846ab66395cd09c56; wmda_new_uuid=1; wmda_visited_projects=%3B6289197098934; fzq_js_anjuke_ershoufang_pc=d9c888220a76b123447cb2c77d5f793a_1730079289903_23; new_uv=21; _ga_DYBJHZFBX2=GS1.2.1730081573.6.0.1730081573.0.0.0; fzq_js_ershoufang_fangjia_pc=a023d3fe2879e0356adb10d3d8519c60_1730085271426_00; fzq_js_anjuke_xiaoqu_pc=5fc9bb51eb1474176505197d851cb089_1730085765634_23; ajkAuthTicket=TT=425189545abf8728a0c7c926972b9b40&TS=1730085765927&PBODY=ZSRmrekpAU3kdmhVJMW0JdSnRimrM3kkngwd3_0SjaXyhXVln2tXKq-TeBHMDF1lAUREPIbES5p6ADH85RSdm3bsfhJcLdbqFrnXIdA-fenou4i3l2zlEHE26z2199wyYfCMMaJlDP27_wVkeREXCdcHZmWV6Lm8yO-nkG8K53I&VER=2&CUID=t3j2DJQnjG5gLGMStevX5Qj5svAO2gEh; xxzlbbid=pfmbM3wxMDM0NnwxLjEwLjB8MTczMDA4NTc2NjIwMDQwODc4MnxHTHNTK2tUNEgrM25xeFl2a3oxQWZweDAyREVSZ3c3NGVmcU4zc3ZwRzZ3PXwxZjQ4YzRiNjZlZWRhMWI5MTUxYzhlMDNkZGI4ZGQxMF8xNzMwMDg1NzY1ODM1X2Y5MGYwMjA5ODFmMjQ1ZDg5ZTViNDQ0NTEzOTc4ODc1XzE4OTk1ODUwNzR8ODFkZjE0ODEzZWIyNTUyZDc5OThkZGE2OTY4NmViMTBfMTczMDA4NTc2NTg5Nl8yNTQ=",
+    "Cookie": "aQQ_ajkguid=1DAEC9B6-FAB4-44DB-96D9-25FCCEEA4804; sessid=FE723776-A2D3-4B97-9D7D-5E483A053A27; ajk-appVersion=; id58=CrIIUGcXR1EVv9sAEAU3Ag==; xxzlclientid=6bb575c7-0d47-4090-a5ae-1729578833601; xxzlxxid=pfmx/kq6UEJvnRYroz/CS/dHtyoeklrVJSVC7Wpzp+3TQV6ZAFr3b922X6S0d8PlaAqo; 58tj_uuid=7e711c17-ee0f-4286-91fc-2eebc00d1c1d; _ga=GA1.2.1370131655.1729838098; als=0; _ga_DYBJHZFBX2=GS1.2.1729838098.1.1.1729839822.0.0.0; isp=true; fzq_h=5cb29a64cfa9a46d765291cabfee7a7c_1730250632426_150afaebd7ab4731b707471cabec6b44_1899585074; ajk_member_verify=Y%2BAzCx%2BeCb%2BI%2BgWH3Yvu7XydTGljnIj%2BKU9uBVdABDQ%3D; ajk_member_verify2=Mjk4MDc5Mjg1fExoaVQzclh8MQ%3D%3D; obtain_by=2; twe=2; ajk_member_id=298079285; new_uv=5; ctid=22; fzq_js_anjuke_xiaoqu_pc=89916cab400c71f70490506ff0080eb5_1730275746539_24; ajkAuthTicket=TT=7dba56593d84880affde6e233a79d928&TS=1730275746947&PBODY=aJ2Ci5bUYZBCqFt2VHOckOaW6kCU7F2a7oY_uZ2Nd045XZc9D5fvg1tqAv6Y_-veiDMx1RUww31mledinzM47FQQvOavtRJghVhKIPx2U9G2hXENzqj3qDDPo29R3X5KQREV8OAaSjtPm4g1EGy0RnyrkcoZwslJVmoHI26M3qE&VER=2&CUID=t3j2DJQnjG5gLGMStevX5Qj5svAO2gEh; xxzlbbid=pfmbM3wxMDM0NnwxLjEwLjF8MTczMDI3NTc0NzI3MjIxODI0MnxBRHZLbkpaa3gwSW9paGpQQ0dkSnRkbkhvcUIvbjFoNmVoQVVnRmcvRGpJPXxiMGI4ZGI4MjY2NGY3ZGE0MjQ5MmEyYjgxYjQ2ZWZhMF8xNzMwMjc1NzQ2Nzg3X2YwZWQwYzM3MWYwMDQ2MTY5NDcwYmY1MmQwNjM2NDgxXzE4OTk1ODUwNzR8ZWEzY2NmNWM0N2Q1MmE3NjhjZTY2Nzg3YWNiM2NmOTZfMTczMDI3NTc0Njg5OF8yNTU=",
 }
 
 
@@ -59,17 +59,13 @@ def process_one_page(url, i):
         for line in f:
             community_id_set.add(line.strip())
 
-    with open("./processed.txt", "a", encoding="utf-8") as f, open(
-        "./links.txt", "a", encoding="utf-8"
-    ) as links_f:
+    with open("./processed.txt", "a", encoding="utf-8") as f, open("./links.txt", "a", encoding="utf-8") as links_f:
         community_list = root.xpath("//div[@class='list-cell']/a")
         for community in community_list:
             url = community.xpath("./@href")[0]
             links_f.write(url + "\n")
 
-            community_name = community.xpath(
-                ".//div[contains(@class, 'li-community-title')]/text()"
-            )[0]
+            community_name = community.xpath(".//div[contains(@class, 'li-community-title')]/text()")[0]
 
             community_id = get_community_id(url)
             if community_id in community_id_set:

@@ -8,7 +8,7 @@ from playwright.sync_api import sync_playwright
 
 # print(html_content)
 
-url = 'https://baidu.com'
+url = "https://baidu.com"
 
 with sync_playwright() as sp:
     browser = sp.chromium.launch()
